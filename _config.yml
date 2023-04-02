@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anran Cong"
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   bio              : *description
   location         : "Beijing, China"
   employer         :
