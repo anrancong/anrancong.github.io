@@ -11,7 +11,7 @@ redirect_from:
 Hi, My name is Anran Cong
 
 ## Education
-**Master of Data Science** <<span style="float:right;">Sep. 2020 – Feb. 2022 </span>  <br/>
+**Master of Data Science** <span style="float:right;">Sep. 2020 – Feb. 2022 </span>  <br/> 
 University of Sydney<br/>
 Sydney, Australia.
 
