@@ -15,8 +15,8 @@ Hi, My name is Anran Cong
 University of Sydney<br/>
 Sydney, Australia.
 
-**Bachelor of Arts**  <br/>
-Sep. 2015 – Aug. 2019 <br/>
+**Bachelor of Arts**  <span style="float:right;">Sep. 2015 – Aug. 2019  </span>  <br/> 
+Economics & Mathsmatics<br/>
 University of Alberta<br/>
 Edmonton, Alberta, Canada
 
