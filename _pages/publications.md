@@ -78,7 +78,7 @@ identifying potential issues and areas for improvement. Incorporated user feedba
 refine and optimize the platform’s functionality and performance.
 
 
-## **Project: Smart Energy Management System (SEMS) ** <br/>
+## **Project: Smart Energy Management System (SEMS)** <br/>
 Feb. 2021 – June. 2021 <br/>
 NetEase <br/>
 **Project objective**: The objective of the Netease Smart Energy Management System (SEMS) project is to optimize energy
