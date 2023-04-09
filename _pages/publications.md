@@ -5,4 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. ***Li, X.Y.***, Yin, Z.W., Wu, H., Hansen, M. Impact of Intracity Traffic Congestion on People’s Choices of Housing, Workplace and Commute: Social Optimal Parsimonious Continuum Approach. *Transportation research part E: Logistics and Transportation Review* (Under review). [pdf](./../files/paper1.pdf)
+## **Research Assistant to *Professor Gabriel Gomes*** <br/>
+Aug. 2022 – Present <br/>
+University of California, Berkeley, Dept. of Mechanical Engineering <br/>
+**Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
+> * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
+> * Proposed a traffic light control algorithm using deep Q-learning network (DQN) and Actor-to-critic (A2C) 
+> * Proposed a real-time path recommendation algorithm for commuters using A2C 
+> * Collaboratively trained two agents to minimize generalized system cost incorporating PM2.5 exposure
