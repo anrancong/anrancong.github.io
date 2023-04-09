@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Experience and Projects"
-    url: /publications/
+    url: /Experience and Projects/
 
-  - title: "Publications and Research"
-    url: /talks/    
+  - title: "Publications"
+    url: /Publications/    
     
   - title: "CV"
     url: /cv/
