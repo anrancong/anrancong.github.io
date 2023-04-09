@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## **Business analyst** <br/>
+## **Business Analyst** <br/>
 May. 2022 – Present <br/>
 JD.com, Electronics and Digital Devices Department  <br/>
 > * Conducted comprehensive requirement analysis and system design, collaborating with business stakeholders and subject
@@ -38,7 +38,7 @@ solution.
 
 
 
-## **Enhancing E-commerce Recommendation System*** <br/>
+## **Project: Enhancing E-commerce Recommendation System** <br/>
 Aug. 2022 – Present <br/>
 JD.com<br/>
 ** Project Objective **: mprove the effectiveness of JD.com the e-commerce recommendation platform by incorporating customer
@@ -58,11 +58,21 @@ key metrics such as click-through rates, conversion rates, and average order val
 and presentations.
 
 
-## **Research Assistant to *Professor Gabriel Gomes*** <br/>
-Aug. 2022 – Present <br/>
-University of California, Berkeley, Dept. of Mechanical Engineering <br/>
-**Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
-> * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
-> * Proposed a traffic light control algorithm using deep Q-learning network (DQN) and Actor-to-critic (A2C) 
-> * Proposed a real-time path recommendation algorithm for commuters using A2C 
-> * Collaboratively trained two agents to minimize generalized system cost incorporating PM2.5 exposure
+## **Project: Electronic Product Trade-In Marketplace** <br/>
+June. 2022 – Present <br/>
+JD.com <br/>
+**Project objective**: o develop a user-friendly platform that streamlines electronic product trade-ins and pre-owned purchases,
+lowering the expenses for users while promoting environmental sustainability.
+> * Requirement Analysis: Gather and analyze user requirements, which led to a clear understanding of their needs and
+goals, such as reducing the cost of purchasing new products etc.
+> * Competitive Research: Conducted in-depth research on competitors’ products and identified opportunities for
+improvement, allowing for the development of a more user-friendly and efficient second-hand recycling platform 
+> * Feature Specification: Defined and prioritized core features of the platform, such as product information submission,
+evaluation, user confirmation, recycling methods, item inspection, resale of second-hand goods, and user feedback
+collection.
+> * Cross-functional Collaboration: Collaborated with UX/UI designers to develop a seamless and intuitive user interface
+and interaction flow, ensuring an optimal experience for users . Worked closely with development teams to ensure that
+technical implementation matched the designed features and user experience.
+> * Testing and Optimization: Coordinated with the quality assurance team to conduct thorough testing of the platform,
+identifying potential issues and areas for improvement. Incorporated user feedback and data analysis to continuously
+refine and optimize the platform’s functionality and performance.
