@@ -76,3 +76,23 @@ technical implementation matched the designed features and user experience.
 > * Testing and Optimization: Coordinated with the quality assurance team to conduct thorough testing of the platform,
 identifying potential issues and areas for improvement. Incorporated user feedback and data analysis to continuously
 refine and optimize the platform’s functionality and performance.
+
+
+## **Project: Smart Energy Management System (SEMS) ** <br/>
+Feb. 2021 – June. 2021 <br/>
+NetEase <br/>
+**Project objective**: The objective of the Netease Smart Energy Management System (SEMS) project is to optimize energy
+consumption in commercial buildings by implementing an IoT-based solution that reduces energy costs, lowers carbon
+emissions, and improves overall building efficiency.
+> * Defined project scope and objectives focused on reducing energy consumption, lowering carbon emissions, and improving
+overall building efficiency.
+> * Developed business, functional, and technical requirements for the IoT-based SEMS solution to address energy
+management needs. 
+> * Collected and analyzed data on energy usage patterns, building systems, and user behavior to identify optimization
+opportunities. Utilized data analytics and machine learning techniques to gain insights into energy consumption patterns
+and support decision-making.
+> * Evaluated and proposed the most suitable energy management solution for implementation in Netease’s commercial
+buildings. Created clear documentation and visual models to effectively communicate the proposed SEMS solution to
+stakeholders
+> * Monitored and evaluated the performance of the implemented SEMS solution, utilizing key performance indicators such
+as energy savings compared to the previous year and cost savings.
