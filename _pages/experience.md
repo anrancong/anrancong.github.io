@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Experience and Projects"
-permalink: /Experience/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
