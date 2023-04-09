@@ -34,3 +34,45 @@ performance indicators.
 > *Gathered and analyzed data on energy consumption patterns, using data analytics tools to identify optimization
 opportunities, developed comprehensive business, functional, and technical requirements for the IoT-based SEMS
 solution.
+
+
+## **Enhancing E-commerce Recommendation System** <br/>
+Aug. 2022 – Present <br/>
+University of California, Berkeley, Dept. of Mechanical Engineering <br/>
+**Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
+> * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
+> * Proposed a traffic light control algorithm using deep Q-learning network (DQN) and Actor-to-critic (A2C) 
+> * Proposed a real-time path recommendation algorithm for commuters using A2C 
+> * Collaboratively trained two agents to minimize generalized system cost incorporating PM2.5 exposure
+
+
+
+
+## **Research Assistant to *Professor Gabriel Gomes*** <br/>
+Aug. 2022 – Present <br/>
+JD.com<br/>
+** Project Objective **: mprove the effectiveness of JD.com the e-commerce recommendation platform by incorporating customer
+preferences and segmentation, leading to increased customer engagement, higher conversion rates, and greater revenue.
+> * Define the project scope, objectives, and timeline. Develop a project plan that outlines the key tasks, milestones, and
+resources needed to complete the project. Interview stakeholders to understand the existing recommendation platform.
+Document the requirements of improved and define project goals
+> * Conducted conjoint analysis to identify key product attributes influencing customer preferences, leading to more targeted
+e-commerce recommendations.
+> * Performed customer segmentation using historical data and clustering techniques, resulting in the identification of
+distinct customer groups for personalized recommendations. 
+> * Collaborated with data scientists and developers to integrate insights from conjoint analysis and customer segmentation
+into the recommendation algorithm.
+> * Designed and executed A/B tests to evaluate the effectiveness of the enhanced recommendation algorithm, monitoring
+key metrics such as click-through rates, conversion rates, and average order value.
+> * Effectively communicated project progress, results, and recommendations to stakeholders using visualizations, reports,
+and presentations.
+
+
+## **Research Assistant to *Professor Gabriel Gomes*** <br/>
+Aug. 2022 – Present <br/>
+University of California, Berkeley, Dept. of Mechanical Engineering <br/>
+**Ongoing Project**: Collaborative Traffic Lights Control and Path Recommendations Using Reinforcement Learning
+> * Built a city-scale simulation platform based on simulation of urban mobility (SUMO)
+> * Proposed a traffic light control algorithm using deep Q-learning network (DQN) and Actor-to-critic (A2C) 
+> * Proposed a real-time path recommendation algorithm for commuters using A2C 
+> * Collaboratively trained two agents to minimize generalized system cost incorporating PM2.5 exposure
