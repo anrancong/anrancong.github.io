@@ -5,9 +5,9 @@ permalink: /Experience/
 author_profile: true
 ---
 
-## **Business Analyst** <br/>
+## **Product Manager** <br/>
 May. 2022 – Present <br/>
-JD.com, Electronics and Digital Devices Department  <br/>
+JD.com <br/>
 > * Conducted comprehensive requirement analysis and system design, collaborating with business stakeholders and subject
 matter experts to identify and document needs, resulting in streamlined processes and improved operational efficiency.
 > * Implemented inventory forecasting models, utilizing historical sales data and trend analysis, to predict future demand
@@ -21,7 +21,7 @@ improve recommendation algorithms for more relevant and effective product sugges
 
 
 
-## **Business Analyst Intern** <br/>
+## **Product Manager** <br/>
 Feb. 2021 – June. 2021 <br/>
 NetEase, IoT
 > * Served as the Business Analyst in the IoT department, specializing in the development and implementation of the SEMS
@@ -39,7 +39,7 @@ solution.
 
 
 ## **Project: Enhancing E-commerce Recommendation System** <br/>
-Aug. 2022 – Present <br/>
+Jan. 2022 – Present <br/>
 JD.com<br/>
 ** Project Objective **: mprove the effectiveness of JD.com the e-commerce recommendation platform by incorporating customer
 preferences and segmentation, leading to increased customer engagement, higher conversion rates, and greater revenue.
@@ -59,7 +59,7 @@ and presentations.
 
 
 ## **Project: Electronic Product Trade-In Marketplace** <br/>
-June. 2022 – Present <br/>
+Jan. 2022 – Present <br/>
 JD.com <br/>
 **Project objective**: o develop a user-friendly platform that streamlines electronic product trade-ins and pre-owned purchases,
 lowering the expenses for users while promoting environmental sustainability.
