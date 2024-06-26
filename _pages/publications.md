@@ -41,7 +41,7 @@ solution.
 ## **Project: Enhancing E-commerce Recommendation System** <br/>
 Jan. 2022 – Present <br/>
 JD.com<br/>
-** Project Objective **: mprove the effectiveness of JD.com the e-commerce recommendation platform by incorporating customer
+**Project objective**: Improve the effectiveness of JD.com the e-commerce recommendation platform by incorporating customer
 preferences and segmentation, leading to increased customer engagement, higher conversion rates, and greater revenue.
 > * Define the project scope, objectives, and timeline. Develop a project plan that outlines the key tasks, milestones, and
 resources needed to complete the project. Interview stakeholders to understand the existing recommendation platform.
@@ -61,7 +61,7 @@ and presentations.
 ## **Project: Electronic Product Trade-In Marketplace** <br/>
 Jan. 2022 – Present <br/>
 JD.com <br/>
-**Project objective**: o develop a user-friendly platform that streamlines electronic product trade-ins and pre-owned purchases,
+**Project objective**: Develop a user-friendly platform that streamlines electronic product trade-ins and pre-owned purchases,
 lowering the expenses for users while promoting environmental sustainability.
 > * Requirement Analysis: Gather and analyze user requirements, which led to a clear understanding of their needs and
 goals, such as reducing the cost of purchasing new products etc.
